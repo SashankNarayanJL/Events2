@@ -12,3 +12,4 @@ pyshorteners
 gspread
 openpyxl
 gspread-dataframe
+cryptography
