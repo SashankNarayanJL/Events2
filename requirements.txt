@@ -9,4 +9,6 @@ geopy
 pgeocode
 pretty-html-table
 pyshorteners
-cryptography
+gspread
+openpyxl
+gspread-dataframe
